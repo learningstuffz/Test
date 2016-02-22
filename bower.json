@@ -1,0 +1,21 @@
+{
+  "name": "effort_tracker_node",
+  "description": "this is an app for effor tracking",
+  "main": "index.js",
+  "authors": [
+    "debu"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "handsontable": "^0.23.0"
+  }
+}

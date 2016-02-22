@@ -1,0 +1,17 @@
+{
+  "name": "effort_tracker_node",
+  "version": "1.0.0",
+  "description": "this is an app for effor tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "debu",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.9",
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4",
+    "jquery": "^1.11.3"
+  }
+}
